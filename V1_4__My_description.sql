@@ -1,1 +1,1 @@
-insert into emp values ('hhh',8);
+insert into emp values ('hhhh',8);
