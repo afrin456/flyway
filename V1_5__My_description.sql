@@ -1,1 +1,1 @@
-insert into emp ( 'ii', 9);
+insert into emp values ( 'ii', 9);
